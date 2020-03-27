@@ -1,0 +1,132 @@
+.top-container {
+  position: relative;
+  background-color: #EAF6F6;
+  padding-top: 40px;
+  margin-top: 0;
+}
+
+h1 {
+  margin: 25px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  line-height: 1.5;
+  font-size: 4.7rem;
+  color: #66bfbf;
+}
+
+h2 {
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #66bfbf;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 200px auto;
+}
+
+.skill-text {
+  text-align: left;
+  line-height: 1.5;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+
+
+.bold {
+  font-weight: bold;
+}
+
+p {
+  margin-bottom: 35px;
+  color: #40514E;
+  font-family: 'Montserrat',sans-serif;
+}
+
+.middle-container {
+
+  margin: 50px auto 50px auto;
+
+}
+
+.bottom-container {
+  padding-top: 20px;
+  background-color: #dee3e2;
+}
+
+hr {
+
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 7px;
+  width: 10%;
+  margin: 40px auto 40px auto;
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+.copyright {
+  color: #11999E;
+}
+
+.contact-me {
+  background-color: #EAF6F6;
+}
+
+body {
+  margin-top: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #EAF6F6;
+}
+
+
+.dog-image {
+  width: 50%;
+  float: left;
+  margin-right: 30px;
+  border-radius: 50%;
+}
+
+.pokedex-image {
+  width: 50%;
+  float: right;
+  margin-left: 30px;
+  border-radius: 50%;
+}
+
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 30px;
+  bottom: 10px;
+}
+
+.profile-picture {
+  margin-bottom: 20px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.subtext {
+  font-size: 8px;
+}
